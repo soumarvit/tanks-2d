@@ -1,0 +1,7 @@
+tankMoveSpeed:3.5
+tankRotateSpeed:5.0
+bulletTravelSpeed:5.0
+tankBulletCapacity:10
+bulletTime:6
+tank1Color:CYAN
+tank2Color:BLUE
